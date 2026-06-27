@@ -1,0 +1,140 @@
+
+\begin{problem}
+\end{problem}
+    
+\begin{minted}
+
+\end{minted}
+    
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\linewidth]{Assignment 3 Images/1.jpg}
+    \caption{}
+\end{figure}
+
+
+\begin{problem}
+\end{problem}
+    
+\begin{minted}
+
+\end{minted}
+    
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\linewidth]{Assignment 3 Images/2.jpg}
+    \caption{}
+\end{figure}
+
+
+\begin{problem}
+\end{problem}
+    
+\begin{minted}
+
+\end{minted}
+    
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\linewidth]{Assignment 3 Images/3.jpg}
+    \caption{}
+\end{figure}
+
+
+\begin{problem}
+\end{problem}
+    
+\begin{minted}
+
+\end{minted}
+    
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\linewidth]{Assignment 3 Images/4.jpg}
+    \caption{}
+\end{figure}
+
+
+\begin{problem}
+\end{problem}
+    
+\begin{minted}
+
+\end{minted}
+    
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\linewidth]{Assignment 3 Images/5.jpg}
+    \caption{}
+\end{figure}
+
+
+\begin{problem}
+\end{problem}
+    
+\begin{minted}
+
+\end{minted}
+    
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\linewidth]{Assignment 3 Images/6.jpg}
+    \caption{}
+\end{figure}
+
+
+\begin{problem}
+\end{problem}
+    
+\begin{minted}
+
+\end{minted}
+    
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\linewidth]{Assignment 3 Images/7.jpg}
+    \caption{}
+\end{figure}
+
+
+\begin{problem}
+\end{problem}
+    
+\begin{minted}
+
+\end{minted}
+    
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\linewidth]{Assignment 3 Images/8.jpg}
+    \caption{}
+\end{figure}
+
+
+\begin{problem}
+\end{problem}
+    
+\begin{minted}
+
+\end{minted}
+    
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\linewidth]{Assignment 3 Images/9.jpg}
+    \caption{}
+\end{figure}
+
+
+\begin{problem}
+\end{problem}
+    
+\begin{minted}
+
+\end{minted}
+    
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\linewidth]{Assignment 3 Images/10.jpg}
+    \caption{}
+\end{figure}
+

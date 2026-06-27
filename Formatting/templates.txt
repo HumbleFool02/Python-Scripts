@@ -1,0 +1,12 @@
+template = """\\begin{{figure}}[h]
+    \centering
+    \includegraphics[width=0.5\linewidth]{{{}}}
+    \caption{{}}
+\\end{{figure}}
+
+"""
+
+template = """\\begin{{problem}}
+\\end{{problem}}
+
+"""
